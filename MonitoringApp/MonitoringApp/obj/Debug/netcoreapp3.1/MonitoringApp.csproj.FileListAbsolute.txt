@@ -1,0 +1,14 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringApp.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\bin\Debug\netcoreapp3.1\MonitoringLib.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.csproj.CopyComplete
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringApp\MonitoringApp\obj\Debug\netcoreapp3.1\MonitoringApp.pdb

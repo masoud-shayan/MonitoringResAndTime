@@ -1,0 +1,8 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter13\MonitoringLib\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.pdb
